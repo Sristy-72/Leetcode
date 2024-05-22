@@ -8,5 +8,7 @@ public:
            // int sum1=sum+nums[i];
        // }
        return sum-accumulate(nums.begin(),nums.end(),0);
+       // accumulate is used to iterate over a sequence of elements
+       // accumulate(starting range, ending range,intial value)
     }
 };
