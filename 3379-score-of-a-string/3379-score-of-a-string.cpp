@@ -1,10 +1,10 @@
 class Solution {
 public:
 int scoreOfString(string s) {
-int total=0;
+int score=0;
 for(int i=0;i<s.size()-1;i++){   
-total=total+abs(s[i]-s[i+1]);
+score=score+abs(s[i]-s[i+1]);//The abs() function in C++ returns the absolute value of an integer number
 }
- return total;
+ return score;
  }
 };
