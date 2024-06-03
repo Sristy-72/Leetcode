@@ -6,10 +6,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sristy-72/Leetcode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sristy-72/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Sristy-72/Leetcode/tree/master/0344-reverse-string) |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sristy-72/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Array
 |  |
 | ------- |
@@ -18,3 +20,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+# Greedy
+|  |
+| ------- |
+| [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sristy-72/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
