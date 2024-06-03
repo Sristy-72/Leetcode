@@ -26,3 +26,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sristy-72/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
+# Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Sristy-72/Leetcode/tree/master/0009-palindrome-number) |
