@@ -28,6 +28,7 @@ Leetcode solutions
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sristy-72/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sristy-72/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Sristy-72/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sristy-72/Leetcode/tree/master/1044-find-common-characters) |
@@ -48,10 +49,12 @@ Leetcode solutions
 | ------- |
 | [0009-palindrome-number](https://github.com/Sristy-72/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
+| [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
 # Hash Table
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sristy-72/Leetcode/tree/master/0409-longest-palindrome) |
+| [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Sristy-72/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
 | [1044-find-common-characters](https://github.com/Sristy-72/Leetcode/tree/master/1044-find-common-characters) |
@@ -67,3 +70,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sristy-72/Leetcode/tree/master/0136-single-number) |
+# Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
