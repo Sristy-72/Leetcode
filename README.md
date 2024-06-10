@@ -24,6 +24,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0053-maximum-subarray](https://github.com/Sristy-72/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sristy-72/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sristy-72/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
@@ -87,4 +88,9 @@ Leetcode solutions
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Sristy-72/Leetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sristy-72/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Sristy-72/Leetcode/tree/master/0053-maximum-subarray) |
