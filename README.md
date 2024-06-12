@@ -6,6 +6,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/Sristy-72/Leetcode/tree/master/0075-sort-colors) |
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sristy-72/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sristy-72/Leetcode/tree/master/0344-reverse-string) |
@@ -25,6 +26,7 @@ Leetcode solutions
 | [0033-search-in-rotated-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Sristy-72/Leetcode/tree/master/0053-maximum-subarray) |
+| [0075-sort-colors](https://github.com/Sristy-72/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sristy-72/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sristy-72/Leetcode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
@@ -68,6 +70,7 @@ Leetcode solutions
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Sristy-72/Leetcode/tree/master/0075-sort-colors) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
 | [1137-height-checker](https://github.com/Sristy-72/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sristy-72/Leetcode/tree/master/1217-relative-sort-array) |
