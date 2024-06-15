@@ -32,6 +32,7 @@ Leetcode solutions
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sristy-72/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sristy-72/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0502-ipo](https://github.com/Sristy-72/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Sristy-72/Leetcode/tree/master/0648-replace-words) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
@@ -51,6 +52,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Sristy-72/Leetcode/tree/master/0409-longest-palindrome) |
+| [0502-ipo](https://github.com/Sristy-72/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sristy-72/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sristy-72/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
@@ -75,6 +77,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sristy-72/Leetcode/tree/master/0075-sort-colors) |
+| [0502-ipo](https://github.com/Sristy-72/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sristy-72/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Sristy-72/Leetcode/tree/master/1137-height-checker) |
@@ -108,3 +111,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sristy-72/Leetcode/tree/master/0053-maximum-subarray) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0502-ipo](https://github.com/Sristy-72/Leetcode/tree/master/0502-ipo) |
