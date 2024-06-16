@@ -33,6 +33,7 @@ Leetcode solutions
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sristy-72/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/Sristy-72/Leetcode/tree/master/0283-move-zeroes) |
+| [0330-patching-array](https://github.com/Sristy-72/Leetcode/tree/master/0330-patching-array) |
 | [0485-max-consecutive-ones](https://github.com/Sristy-72/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0502-ipo](https://github.com/Sristy-72/Leetcode/tree/master/0502-ipo) |
 | [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
@@ -53,6 +54,7 @@ Leetcode solutions
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/Sristy-72/Leetcode/tree/master/0330-patching-array) |
 | [0409-longest-palindrome](https://github.com/Sristy-72/Leetcode/tree/master/0409-longest-palindrome) |
 | [0502-ipo](https://github.com/Sristy-72/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
