@@ -29,6 +29,7 @@ Leetcode solutions
 | [0075-sort-colors](https://github.com/Sristy-72/Leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sristy-72/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sristy-72/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sristy-72/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sristy-72/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sristy-72/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -66,6 +67,7 @@ Leetcode solutions
 # Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sristy-72/Leetcode/tree/master/0169-majority-element) |
 | [0409-longest-palindrome](https://github.com/Sristy-72/Leetcode/tree/master/0409-longest-palindrome) |
 | [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0648-replace-words](https://github.com/Sristy-72/Leetcode/tree/master/0648-replace-words) |
@@ -77,6 +79,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sristy-72/Leetcode/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Sristy-72/Leetcode/tree/master/0169-majority-element) |
 | [0502-ipo](https://github.com/Sristy-72/Leetcode/tree/master/0502-ipo) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sristy-72/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
@@ -99,6 +102,7 @@ Leetcode solutions
 # Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sristy-72/Leetcode/tree/master/0169-majority-element) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sristy-72/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/Sristy-72/Leetcode/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/Sristy-72/Leetcode/tree/master/1217-relative-sort-array) |
@@ -111,6 +115,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sristy-72/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sristy-72/Leetcode/tree/master/0169-majority-element) |
 # Heap (Priority Queue)
 |  |
 | ------- |
