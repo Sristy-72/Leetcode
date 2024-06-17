@@ -10,6 +10,7 @@ Leetcode solutions
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sristy-72/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sristy-72/Leetcode/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/Sristy-72/Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sristy-72/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # String
 |  |
@@ -51,6 +52,7 @@ Leetcode solutions
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sristy-72/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Sristy-72/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Greedy
 |  |
 | ------- |
@@ -67,6 +69,7 @@ Leetcode solutions
 | [0009-palindrome-number](https://github.com/Sristy-72/Leetcode/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/Sristy-72/Leetcode/tree/master/0189-rotate-array) |
 | [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [0633-sum-of-square-numbers](https://github.com/Sristy-72/Leetcode/tree/master/0633-sum-of-square-numbers) |
 # Hash Table
 |  |
 | ------- |
