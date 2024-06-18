@@ -1,14 +1,24 @@
 class Solution {
 public:
-    int maxSubArray(vector<int>& nums) {
-      int maxsofar = nums[0];
-        int currmax = nums[0];
+    int maxSubArray(vector<int>& arr) {
+        int n=arr.size();
+          long long maxi = LONG_MIN; // maximum sum
+    long long sum = 0;
 
-        for (int i = 1; i < nums.size(); i++) {
-            currmax = max(nums[i], currmax + nums[i]);
-            maxsofar = max(maxsofar, currmax);
+    for (int i = 0; i < n; i++) {
+
+        sum += arr[i];
+
+        if (sum > maxi) {
+            maxi = sum;
         }
 
-        return maxsofar;   
+        // If sum < 0: discard the sum calculated
+        if (sum < 0) {
+            sum = 0;
+        }
+    }
+    
+     return maxi;
     }
 };
