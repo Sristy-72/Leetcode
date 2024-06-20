@@ -5,7 +5,7 @@ public:
         int first=-1;
         int last= -1;
         int mid;
-        // fisrt occu
+        // fisrt occurance
         while(start<=end){
             mid= start + (end-start)/2;
             if(nums[mid]==target){
@@ -18,7 +18,7 @@ public:
             else
             end=mid-1;
         }
-        // last occ
+        // last occurance
         start=0,end=nums.size()-1;
         while(start<=end){
             mid= start + (end-start)/2;
