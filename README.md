@@ -46,6 +46,7 @@ Leetcode solutions
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sristy-72/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sristy-72/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sristy-72/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1044-find-common-characters](https://github.com/Sristy-72/Leetcode/tree/master/1044-find-common-characters) |
 | [1137-height-checker](https://github.com/Sristy-72/Leetcode/tree/master/1137-height-checker) |
 | [1138-grumpy-bookstore-owner](https://github.com/Sristy-72/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
@@ -121,11 +122,13 @@ Leetcode solutions
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Sristy-72/Leetcode/tree/master/0136-single-number) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sristy-72/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Sristy-72/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sristy-72/Leetcode/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sristy-72/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 # Counting Sort
 |  |
 | ------- |
@@ -152,12 +155,14 @@ Leetcode solutions
 # Sliding Window
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sristy-72/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1138-grumpy-bookstore-owner](https://github.com/Sristy-72/Leetcode/tree/master/1138-grumpy-bookstore-owner) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sristy-72/Leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sristy-72/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Queue
 |  |
 | ------- |
+| [1037-minimum-number-of-k-consecutive-bit-flips](https://github.com/Sristy-72/Leetcode/tree/master/1037-minimum-number-of-k-consecutive-bit-flips) |
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Sristy-72/Leetcode/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Ordered Set
 |  |
