@@ -77,6 +77,7 @@ Leetcode solutions
 | [0853-most-profit-assigning-work](https://github.com/Sristy-72/Leetcode/tree/master/0853-most-profit-assigning-work) |
 | [0876-hand-of-straights](https://github.com/Sristy-72/Leetcode/tree/master/0876-hand-of-straights) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/Sristy-72/Leetcode/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sristy-72/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/Sristy-72/Leetcode/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2572-append-characters-to-string-to-make-subsequence](https://github.com/Sristy-72/Leetcode/tree/master/2572-append-characters-to-string-to-make-subsequence) |
 # Math
@@ -147,6 +148,7 @@ Leetcode solutions
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sristy-72/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sristy-72/Leetcode/tree/master/0169-majority-element) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sristy-72/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -176,15 +178,19 @@ Leetcode solutions
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sristy-72/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sristy-72/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Depth-First Search
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sristy-72/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sristy-72/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Search Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sristy-72/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sristy-72/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
 # Binary Tree
 |  |
 | ------- |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Sristy-72/Leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
+| [1285-balance-a-binary-search-tree](https://github.com/Sristy-72/Leetcode/tree/master/1285-balance-a-binary-search-tree) |
