@@ -229,4 +229,12 @@ Leetcode solutions
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sristy-72/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+## Array
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
