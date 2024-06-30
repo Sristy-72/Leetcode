@@ -208,6 +208,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sristy-72/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sristy-72/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Sorting
 |  |
@@ -237,4 +238,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
+## Union Find
+|  |
+| ------- |
+| [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sristy-72/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 <!---LeetCode Topics End-->
