@@ -234,6 +234,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
+| [1293-three-consecutive-odds](https://github.com/Sristy-72/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Binary Search
 |  |
 | ------- |
