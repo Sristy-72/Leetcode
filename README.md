@@ -213,6 +213,7 @@ Leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
 |  |
@@ -243,4 +244,16 @@ Leetcode solutions
 |  |
 | ------- |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sristy-72/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
+## Hash Table
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
+## String
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 <!---LeetCode Topics End-->
