@@ -6,6 +6,8 @@ public:
         mp[ch]++;
     }    
     for(char &ch:t){
+        // if(mp.find()==mp.end())
+        // return ch
         mp[ch]--;
         if(mp[ch]<0)
         return ch;
