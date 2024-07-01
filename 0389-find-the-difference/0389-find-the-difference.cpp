@@ -16,14 +16,25 @@ public:
     // return 'x';
 
     // approach 2(sum)
-    int sum1=0;
-    for(char&ch :s){
-        sum1+=ch;
+    // int sum1=0;
+    // for(char&ch :s){
+    //     sum1+=ch;
+    // }
+    // int sum2=0;
+    // for(char&ch:t){
+    //     sum2+=ch;
+    // }
+    // return (char)(sum2-sum1);
+
+    //approach 3(XOR method)
+
+    int XOR=0;
+    for(char&ch:s){
+        XOR^=ch;
     }
-    int sum2=0;
     for(char&ch:t){
-        sum2+=ch;
+        XOR^=ch;
     }
-    return (char)(sum2-sum1);
+    return (char)(XOR);
     }
 };
