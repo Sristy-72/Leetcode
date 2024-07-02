@@ -213,6 +213,7 @@ Leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
@@ -235,11 +236,13 @@ Leetcode solutions
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1293-three-consecutive-odds](https://github.com/Sristy-72/Leetcode/tree/master/1293-three-consecutive-odds) |
 ## Binary Search
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Union Find
 |  |
 | ------- |
@@ -247,6 +250,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 ## String
 |  |
@@ -256,4 +260,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
