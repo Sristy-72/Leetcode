@@ -2,11 +2,11 @@ class Solution {
 public:
     vector<int> intersect(vector<int>& nums1, vector<int>& nums2) {
     
-    
-          vector<int>ans;
-        //   sort(nums1.begin(),nums1.end());
-           sort(begin(nums1),end(nums1));// method 2 for sorting
-           sort(nums2.begin(),nums2.end());
+    // method 2(two pointer approach)
+     vector<int>ans;
+     //   sort(nums1.begin(),nums1.end());
+    sort(begin(nums1),end(nums1));// method 2 for sorting
+    sort(nums2.begin(),nums2.end());
      int n=nums1.size();
      int m=nums2.size();
      int i=0;
@@ -26,10 +26,12 @@ public:
      }
      return ans;
     
+
+    // unc=successful attempt mistake in loop implementation
     //  for(i=0;i<n;i++){
     //     for( j=0;j<m;j++){
     //         if(nums1[i]==nums2[j]){
-    //            v.push_back(nums1[i]);
+    //            ans.push_back(nums1[i]);
     //         //    nums1[i]++;
     //         i++;
     //         j++;
@@ -44,7 +46,7 @@ public:
     //     }
     //  }   
    
-    // return v;
+    // return ans;
     
 
     // method 1(hashing)
