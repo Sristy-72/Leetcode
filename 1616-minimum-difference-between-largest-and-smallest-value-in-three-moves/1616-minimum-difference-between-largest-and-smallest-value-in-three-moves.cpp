@@ -2,7 +2,7 @@ class Solution {
 public:
     int minDifference(vector<int>& nums) {
        sort(nums.begin(),nums.end());
-       int MAX_MOVE = 3; //changeable condition
+       int MAX_MOVE = 3; //changable condition
         if (nums.size() <= MAX_MOVE + 1)
             return 0;
         int n = nums.size();
