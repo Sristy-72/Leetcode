@@ -270,6 +270,7 @@ Leetcode solutions
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sristy-72/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sristy-72/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sristy-78/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sristy-72/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 ## Bit Manipulation
 |  |
@@ -312,12 +313,14 @@ Leetcode solutions
 | ------- |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sristy-72/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sristy-72/Leetcode/tree/master/1720-crawler-log-folder) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sristy-78/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sristy-72/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Sristy-72/Leetcode/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [1511-count-number-of-teams](https://github.com/Sristy-78/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sristy-78/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 ## Binary Indexed Tree
 |  |
 | ------- |
