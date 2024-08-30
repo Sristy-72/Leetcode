@@ -212,6 +212,7 @@ Leetcode solutions
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sristy-72/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1701-remove-max-number-of-edges-to-keep-graph-fully-traversable](https://github.com/Sristy-72/Leetcode/tree/master/1701-remove-max-number-of-edges-to-keep-graph-fully-traversable) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/Sristy-78/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Sorting
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2803-modify-graph-edge-weights](https://github.com/Sristy-78/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -364,4 +366,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Shortest Path
+|  |
+| ------- |
+| [2803-modify-graph-edge-weights](https://github.com/Sristy-78/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 <!---LeetCode Topics End-->
