@@ -256,6 +256,7 @@ Leetcode solutions
 | [0283-move-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sristy-78/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1196-filling-bookcase-shelves](https://github.com/Sristy-78/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/Sristy-72/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Sristy-78/Leetcode/tree/master/1325-path-with-maximum-probability) |
@@ -288,6 +289,7 @@ Leetcode solutions
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
+| [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 ## String
 |  |
 | ------- |
@@ -326,6 +328,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sristy-78/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1642-water-bottles](https://github.com/Sristy-72/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Sristy-72/Leetcode/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sristy-72/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
