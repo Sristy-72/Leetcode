@@ -271,6 +271,7 @@ Leetcode solutions
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sristy-78/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/Sristy-78/Leetcode/tree/master/2155-find-missing-observations) |
 | [2846-robot-collisions](https://github.com/Sristy-72/Leetcode/tree/master/2846-robot-collisions) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sristy-78/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -291,6 +292,7 @@ Leetcode solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sristy-78/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## String
 |  |
 | ------- |
@@ -325,6 +327,7 @@ Leetcode solutions
 | [0328-odd-even-linked-list](https://github.com/Sristy-78/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sristy-72/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sristy-72/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sristy-78/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Simulation
 |  |
 | ------- |
