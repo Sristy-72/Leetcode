@@ -315,6 +315,7 @@ Leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/Sristy-78/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0476-number-complement](https://github.com/Sristy-78/Leetcode/tree/master/0476-number-complement) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/Sristy-78/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Two Pointers
 |  |
 | ------- |
