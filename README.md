@@ -312,6 +312,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sristy-78/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -379,6 +380,7 @@ Leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristy-78/Leetcode/tree/master/0002-add-two-numbers) |
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sristy-78/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -391,6 +393,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristy-78/Leetcode/tree/master/0002-add-two-numbers) |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sristy-72/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -409,6 +412,7 @@ Leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/Sristy-78/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Sristy-78/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sristy-78/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -457,4 +461,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sristy-78/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Memoization
+|  |
+| ------- |
+| [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 <!---LeetCode Topics End-->
