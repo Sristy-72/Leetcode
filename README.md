@@ -402,12 +402,14 @@ Leetcode solutions
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sristy-72/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
 | ------- |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sristy-72/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -491,5 +493,6 @@ Leetcode solutions
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
