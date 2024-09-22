@@ -312,6 +312,7 @@ Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0020-valid-parentheses) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Sristy-78/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -408,6 +409,7 @@ Leetcode solutions
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
