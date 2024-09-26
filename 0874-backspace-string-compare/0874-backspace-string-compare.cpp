@@ -18,6 +18,7 @@ public:
     }
     bool backspaceCompare(string s, string t) {
         return buildString(s) == buildString(t);
-        
     }
 };
+
+ 
