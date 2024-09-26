@@ -426,6 +426,7 @@ Leetcode solutions
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sristy-72/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/Sristy-72/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sristy-78/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -514,4 +515,13 @@ Leetcode solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
+## Data Stream
+|  |
+| ------- |
+| [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
 <!---LeetCode Topics End-->
