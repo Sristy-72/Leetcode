@@ -267,6 +267,7 @@ Leetcode solutions
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1196-filling-bookcase-shelves](https://github.com/Sristy-78/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/Sristy-72/Leetcode/tree/master/1293-three-consecutive-odds) |
@@ -371,6 +372,7 @@ Leetcode solutions
 | [0002-add-two-numbers](https://github.com/Sristy-78/Leetcode/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Sristy-78/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/Sristy-78/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sristy-72/Leetcode/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sristy-72/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -420,6 +422,7 @@ Leetcode solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sristy-72/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Stack
 |  |
@@ -522,6 +525,7 @@ Leetcode solutions
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
 ## Monotonic Stack
 |  |
