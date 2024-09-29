@@ -312,6 +312,7 @@ Leetcode solutions
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
+| [0432-all-oone-data-structure](https://github.com/Sristy-78/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sristy-78/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sristy-78/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -371,6 +372,7 @@ Leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristy-78/Leetcode/tree/master/0002-add-two-numbers) |
 | [0328-odd-even-linked-list](https://github.com/Sristy-78/Leetcode/tree/master/0328-odd-even-linked-list) |
+| [0432-all-oone-data-structure](https://github.com/Sristy-78/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0725-split-linked-list-in-parts](https://github.com/Sristy-78/Leetcode/tree/master/0725-split-linked-list-in-parts) |
 | [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
@@ -523,6 +525,7 @@ Leetcode solutions
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+| [0432-all-oone-data-structure](https://github.com/Sristy-78/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
@@ -545,4 +548,8 @@ Leetcode solutions
 | ------- |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0432-all-oone-data-structure](https://github.com/Sristy-78/Leetcode/tree/master/0432-all-oone-data-structure) |
 <!---LeetCode Topics End-->
