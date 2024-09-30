@@ -273,6 +273,7 @@ Leetcode solutions
 | [1293-three-consecutive-odds](https://github.com/Sristy-72/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Sristy-78/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sristy-78/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sristy-78/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Sristy-78/Leetcode/tree/master/1511-count-number-of-teams) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sristy-72/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sristy-72/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -437,6 +438,7 @@ Leetcode solutions
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sristy-72/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sristy-78/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1720-crawler-log-folder](https://github.com/Sristy-72/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sristy-78/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sristy-72/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
@@ -530,6 +532,7 @@ Leetcode solutions
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
+| [1497-design-a-stack-with-increment-operation](https://github.com/Sristy-78/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Monotonic Stack
 |  |
 | ------- |
