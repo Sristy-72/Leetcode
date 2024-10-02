@@ -1,10 +1,13 @@
 class Solution {
 public:
 void reverseString(vector<char>& s) {
+    // approach 1
 // int n=s.size();
 // for(int i=0;i<n/2;i++){
 // swap(s[i],s[n-1-i]);
+// }
 
+// approach 2(stl)
 reverse(s.begin(),s.end());
 
 // approach 3 (using stack)
@@ -19,6 +22,8 @@ reverse(s.begin(),s.end());
 //     i++;
 //     st.pop();
 // }
+
+
 }
-// }
+
 };
