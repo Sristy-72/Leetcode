@@ -315,6 +315,7 @@ Leetcode solutions
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/Sristy-78/Leetcode/tree/master/0432-all-oone-data-structure) |
+| [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sristy-78/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sristy-78/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
@@ -333,6 +334,7 @@ Leetcode solutions
 | [0344-reverse-string](https://github.com/Sristy-78/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sristy-78/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sristy-78/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -369,6 +371,7 @@ Leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/Sristy-78/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sristy-78/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
 ## Linked List
 |  |
@@ -558,4 +561,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0432-all-oone-data-structure](https://github.com/Sristy-78/Leetcode/tree/master/0432-all-oone-data-structure) |
+## Sliding Window
+|  |
+| ------- |
+| [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 <!---LeetCode Topics End-->
