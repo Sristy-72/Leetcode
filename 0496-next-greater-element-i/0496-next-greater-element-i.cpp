@@ -7,13 +7,13 @@ public:
         while (!st.empty() && st.top() <= nums2[i]) {
             st.pop();
         }
-        nextGreaterMap[nums2[i]] = st.empty() ? -1 : st.top();
-        // if(st.empty()){
-        //    nextGreaterMap[nums2[i]]=-1;
-        // }
-        // else {
-        //     nextGreaterMap[nums2[i]]= st.top();
-        // }
+       // nextGreaterMap[nums2[i]] = st.empty() ? -1 : st.top();
+        if(st.empty()){
+           nextGreaterMap[nums2[i]]=-1;
+        }
+        else {
+            nextGreaterMap[nums2[i]]= st.top();
+        }
         st.push(nums2[i]);
     }
     vector<int> ans;
