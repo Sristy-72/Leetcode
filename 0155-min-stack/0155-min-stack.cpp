@@ -10,7 +10,8 @@ class MinStack {
     }
     
     void pop() {
-        v.erase(v.begin()+v.size()-1);
+       // v.erase(v.begin()+v.size()-1);
+       v.pop_back();
     }
     
     int top() {
