@@ -439,6 +439,7 @@ Leetcode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0020-valid-parentheses) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Sristy-78/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -534,6 +535,7 @@ Leetcode solutions
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sristy-78/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0432-all-oone-data-structure](https://github.com/Sristy-78/Leetcode/tree/master/0432-all-oone-data-structure) |
