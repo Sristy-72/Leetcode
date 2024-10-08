@@ -14,7 +14,13 @@ public:
         }
 
         // If the stack is empty, then there is no greater element
-        nextGreaterMap[num] = st.empty() ? -1 : st.top();
+        //nextGreaterMap[num] = st.empty() ? -1 : st.top();
+        if(st.empty()){
+           nextGreaterMap[num]=-1;
+        }
+        else {
+            nextGreaterMap[num]= st.top();
+        }
 
         // Push the current number onto the stack
         st.push(num);
