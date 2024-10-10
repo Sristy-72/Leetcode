@@ -269,6 +269,7 @@ Leetcode solutions
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
+| [0739-daily-temperatures](https://github.com/Sristy-78/Leetcode/tree/master/0739-daily-temperatures) |
 | [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [1196-filling-bookcase-shelves](https://github.com/Sristy-78/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -447,6 +448,7 @@ Leetcode solutions
 | [0225-implement-stack-using-queues](https://github.com/Sristy-78/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sristy-78/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Sristy-78/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Sristy-78/Leetcode/tree/master/0739-daily-temperatures) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
@@ -554,6 +556,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sristy-78/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Sristy-78/Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Sristy-78/Leetcode/tree/master/0937-online-stock-span) |
 ## Data Stream
 |  |
