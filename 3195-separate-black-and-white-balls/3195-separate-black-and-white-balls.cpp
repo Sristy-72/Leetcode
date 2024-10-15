@@ -4,12 +4,13 @@ public:
         int n= s.length();
         long long SwapsReq=0;
         int blackballs=0;
-       for(int i=0;i<n;i++){
+       for(int i=n-1;i>=0;i--){
         if(s[i] == '1'){
-            blackballs++;  
+           SwapsReq= SwapsReq+blackballs; 
         }
         else  {
-             SwapsReq= SwapsReq+blackballs; 
+             blackballs++;  
+             
         }
        } 
        return SwapsReq;
