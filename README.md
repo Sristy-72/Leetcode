@@ -330,6 +330,7 @@ Leetcode solutions
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sristy-78/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sristy-78/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sristy-78/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sristy-78/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2755-extra-characters-in-a-string](https://github.com/Sristy-78/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -351,6 +352,7 @@ Leetcode solutions
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sristy-78/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Sristy-72/Leetcode/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sristy-78/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1720-crawler-log-folder](https://github.com/Sristy-72/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/Sristy-78/Leetcode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sristy-78/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -591,4 +593,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
+## Backtracking
+|  |
+| ------- |
+| [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
