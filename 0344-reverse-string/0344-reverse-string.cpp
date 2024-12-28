@@ -2,6 +2,7 @@ class Solution {
 public:
 void reverse(vector<char>&s, int i,int n){
     // int n = s.size();
+    // using recursion 
     if(i>=n/2){
         return;
     }
