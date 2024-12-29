@@ -1,18 +1,16 @@
 class Solution {
 public:
-void reverse(vector<char>&s, int i,int n){
-    // int n = s.size();
-    // using recursion 
+void reverse(vector<char>&s, int n , int i){
     if(i>=n/2){
         return;
     }
-    swap(s[i], s[n-i-1]);
-    reverse(s,i+1,n);
+    swap(s[i],s[n-i-1]);
+    reverse(s,n, i+1);
 }
     void reverseString(vector<char>& s) {
            int n= s.size();
            int i=0;
-        reverse(s,i,n);
+        reverse(s,n,i);
         // stack<char>st;
      
     //    for(int i=0;i<n/2;i++){
