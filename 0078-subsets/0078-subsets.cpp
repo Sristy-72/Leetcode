@@ -1,20 +1,21 @@
 class Solution {
-public:
-    vector<vector<int>> subsets(vector<int>& nums) {
-        vector<vector<int>> ans;
-    dfs(nums, 0, {}, ans);
-    return ans;
-  }
-
- private:
-  void dfs(const vector<int>& nums, int s, vector<int>&& path,
-           vector<vector<int>>& ans) {
-    ans.push_back(path);
-
-    for (int i = s; i < nums.size(); ++i) {
-      path.push_back(nums[i]);
-      dfs(nums, i + 1, move(path), ans);
-      path.pop_back();
+public: 
+ vector<vector<int>>result;
+void solve(vector<int>&nums,int i, vector<int>&temp){
+    int n= nums.size();
+   
+    if(i>=n){
+      result.push_back(temp);
+         return;
     }
+    temp.push_back(nums[i]);
+    solve(nums, i+1, temp);
+    temp.pop_back();
+    solve(nums,i+1, temp);
+}
+    vector<vector<int>> subsets(vector<int>& nums) {
+         vector<int>temp;
+          solve(nums,0,temp);
+          return result;
     }
 };
