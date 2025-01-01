@@ -2,7 +2,6 @@ class Solution {
 public:
 vector<vector<int>>ans;
 void solve(vector<int>&candidates,vector<int>&ds, int i, int target){
-
     if(i==candidates.size()){
         if(target==0){
          ans.push_back(ds);
@@ -14,10 +13,7 @@ void solve(vector<int>&candidates,vector<int>&ds, int i, int target){
          solve(candidates, ds, i, target-candidates[i]);
          ds.pop_back();
         }
-        solve(candidates, ds, i+1, target);
-
-
-    
+        solve(candidates, ds, i+1, target);   
 }
 public:
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
