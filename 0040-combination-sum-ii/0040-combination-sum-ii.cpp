@@ -1,8 +1,8 @@
 class Solution {
 public:
 void solve(vector<int>&arr, int target, int ind,vector<int>temp,vector<vector<int>>&ans ){
-        if(target < 0)
-            return;
+        // if(target < 0)
+        //     return;
         if(target==0){
             ans.push_back(temp);
              return;
