@@ -265,6 +265,7 @@ Leetcode solutions
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/Sristy-78/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sristy-78/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Sristy-78/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sristy-78/Leetcode/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sristy-78/Leetcode/tree/master/0078-subsets) |
@@ -630,6 +631,7 @@ Leetcode solutions
 | ------- |
 | [0039-combination-sum](https://github.com/Sristy-78/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sristy-78/Leetcode/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/Sristy-78/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sristy-78/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sristy-78/Leetcode/tree/master/0090-subsets-ii) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
