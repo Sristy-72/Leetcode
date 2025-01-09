@@ -355,6 +355,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Sristy-78/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Sristy-78/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -505,6 +506,7 @@ Leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0131-palindrome-partitioning](https://github.com/Sristy-78/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [1196-filling-bookcase-shelves](https://github.com/Sristy-78/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1511-count-number-of-teams](https://github.com/Sristy-78/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -634,5 +636,6 @@ Leetcode solutions
 | [0051-n-queens](https://github.com/Sristy-78/Leetcode/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sristy-78/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sristy-78/Leetcode/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Sristy-78/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 <!---LeetCode Topics End-->
