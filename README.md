@@ -263,6 +263,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sristy-78/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sristy-78/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sristy-78/Leetcode/tree/master/0051-n-queens) |
@@ -334,6 +335,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
@@ -538,6 +540,7 @@ Leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/Sristy-78/Leetcode/tree/master/0054-spiral-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sristy-78/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sristy-78/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -634,6 +637,7 @@ Leetcode solutions
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sristy-78/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sristy-78/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sristy-78/Leetcode/tree/master/0051-n-queens) |
