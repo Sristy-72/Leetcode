@@ -1,6 +1,6 @@
 class Solution {
 public:
-int solve(vector<int>&nums, int n,vector<int>&dp){
+//int solve(vector<int>&nums, int n,vector<int>&dp){
 
 //    if(n==0) return nums[n];
 //    if(n<0) return 0;
@@ -18,20 +18,38 @@ int solve(vector<int>&nums, int n,vector<int>&dp){
 //    return dp[ind]= max(pick, nonpick);
 
      // tabulation
-     dp[0]=nums[0];
+    //  dp[0]=nums[0];
     
-     for(int i=1;i<n;i++){
-         int pick = nums[i];
-        if(i>1)
-            pick+= dp[i-2];
-            int nonpick = dp[i-1];
-           dp[i]=max(pick,nonpick);
-     }
-      return dp[n-1];
-    }
-    int rob(vector<int>& nums) {
-        int n=nums.size();
-      vector<int>dp(n,-1);//Declare a dp[] array of size n+1 and initialize it to -1
-       return solve(nums,n,dp); 
+    //  for(int i=1;i<n;i++){
+    //      int pick = nums[i];
+    //     if(i>1)
+    //         pick+= dp[i-2];
+    //         int nonpick = dp[i-1];
+    //        dp[i]=max(pick,nonpick);
+    //  }
+    //   return dp[n-1];
+    // }
+
+    // space optimization
+    // int rob(vector<int>& nums,int n) {
+    //     int n=nums.size();
+    //   vector<int>dp(n,-1);//Declare a dp[] array of size n+1 and initialize it to -1
+    //    return solve(nums,n,dp); 
+    // }
+
+    int rob(vector<int>&nums){
+        int n= nums.size();
+        int prev= nums[0];
+        int prev2=0;
+        for(int i=1;i<n;i++){
+            int pick= nums[i];
+            if(i>1)
+            pick+= prev2;
+            int notpick= 0+prev;
+            int curr=max(pick,notpick);
+            prev2= prev;
+            prev=curr;
+        }
+        return prev;
     }
 };
