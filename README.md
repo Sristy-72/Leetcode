@@ -462,6 +462,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristy-78/Leetcode/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Sristy-78/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -511,6 +512,7 @@ Leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sristy-78/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/Sristy-78/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Sristy-78/Leetcode/tree/master/0198-house-robber) |
@@ -649,4 +651,8 @@ Leetcode solutions
 | [0090-subsets-ii](https://github.com/Sristy-78/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sristy-78/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Sristy-78/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
