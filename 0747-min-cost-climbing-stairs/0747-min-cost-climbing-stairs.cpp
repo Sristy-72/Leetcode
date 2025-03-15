@@ -13,11 +13,22 @@ public:
         int n = cost.size();
         vector<int> dp(n , 0);
         //return min(ways(dp, n - 1, cost), ways(dp, n - 2, cost));
-        dp[0]=cost[0];
-        dp[1]=cost[1];
+        // dp[0]=cost[0];
+        // dp[1]=cost[1];
+        // for(int i=2;i<n;i++){
+        //     dp[i] = min(dp[i-1],dp[i-2])+cost[i];
+        // }
+        // return min(dp[n-1],dp[n-2]);
+
+
+        // SPACE OPTIMIZATION
+        int prev1=cost[1];
+        int prev2= cost[0];
         for(int i=2;i<n;i++){
-            dp[i] = min(dp[i-1],dp[i-2])+cost[i];
-        }
-        return min(dp[n-1],dp[n-2]);
+            int curr= min( prev1,prev2) +cost[i];
+            prev2=prev1;
+            prev1=curr;
+                    }
+                    return min(prev1,prev2);
     }
 };
