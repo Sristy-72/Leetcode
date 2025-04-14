@@ -307,6 +307,7 @@ Leetcode solutions
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sristy-72/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sristy-78/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Sristy-78/Leetcode/tree/master/1646-kth-missing-positive-number) |
+| [1656-count-good-triplets](https://github.com/Sristy-78/Leetcode/tree/master/1656-count-good-triplets) |
 | [1720-crawler-log-folder](https://github.com/Sristy-72/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sristy-78/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sristy-78/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -687,4 +688,8 @@ Leetcode solutions
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Sristy-78/Leetcode/tree/master/0062-unique-paths) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/Sristy-78/Leetcode/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
