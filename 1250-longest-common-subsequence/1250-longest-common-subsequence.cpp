@@ -16,7 +16,7 @@ int solve(string &text1, string &text2, int i, int j , vector<vector<int>>&dp){
            int n=text1.size();
            int m= text2.size();
         //    vector<vector<int>>&dp(n, vector<int>(text2.size()+1, -1));
-         vector<vector<int>>dp(text1.size()+1,vector<int>(text2.size()+1,-1));
+         vector<vector<int>>dp(text1.size(),vector<int>(text2.size()+1,-1));
            return solve( text1, text2, n-1, m-1, dp);
     }
 };
