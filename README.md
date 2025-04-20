@@ -203,6 +203,7 @@ Leetcode solutions
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Sristy-78/Leetcode/tree/master/0055-jump-game) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0670-maximum-swap](https://github.com/Sristy-78/Leetcode/tree/master/0670-maximum-swap) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sristy-78/Leetcode/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -273,6 +274,7 @@ Leetcode solutions
 | [0040-combination-sum-ii](https://github.com/Sristy-78/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sristy-78/Leetcode/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Sristy-78/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Sristy-78/Leetcode/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/Sristy-78/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sristy-78/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
@@ -539,6 +541,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0022-generate-parentheses) |
+| [0055-jump-game](https://github.com/Sristy-78/Leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Sristy-78/Leetcode/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Sristy-78/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sristy-78/Leetcode/tree/master/0064-minimum-path-sum) |
