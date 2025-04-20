@@ -211,6 +211,7 @@ Leetcode solutions
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sristy-78/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sristy-72/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sristy-78/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3195-separate-black-and-white-balls](https://github.com/Sristy-78/Leetcode/tree/master/3195-separate-black-and-white-balls) |
 ## Graph
@@ -232,6 +233,7 @@ Leetcode solutions
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sristy-72/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sristy-78/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2846-robot-collisions](https://github.com/Sristy-72/Leetcode/tree/master/2846-robot-collisions) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sristy-78/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
@@ -240,6 +242,7 @@ Leetcode solutions
 | ------- |
 | [1325-path-with-maximum-probability](https://github.com/Sristy-78/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sristy-78/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2803-modify-graph-edge-weights](https://github.com/Sristy-78/Leetcode/tree/master/2803-modify-graph-edge-weights) |
 ## Depth-First Search
@@ -321,6 +324,7 @@ Leetcode solutions
 | [2232-adding-spaces-to-a-string](https://github.com/Sristy-78/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sristy-78/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2411-spiral-matrix-iv](https://github.com/Sristy-78/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sristy-78/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sristy-78/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/Sristy-78/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -365,6 +369,7 @@ Leetcode solutions
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sristy-78/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sristy-78/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sristy-78/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Sristy-78/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -474,6 +479,7 @@ Leetcode solutions
 | [2232-adding-spaces-to-a-string](https://github.com/Sristy-78/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/Sristy-72/Leetcode/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2411-spiral-matrix-iv](https://github.com/Sristy-78/Leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2645-pass-the-pillow](https://github.com/Sristy-72/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/Sristy-78/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [2846-robot-collisions](https://github.com/Sristy-72/Leetcode/tree/master/2846-robot-collisions) |
