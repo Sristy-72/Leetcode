@@ -363,6 +363,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sristy-78/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -387,6 +388,7 @@ Leetcode solutions
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sristy-78/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sristy-78/Leetcode/tree/master/0125-valid-palindrome) |
@@ -701,6 +703,7 @@ Leetcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sristy-78/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/Sristy-78/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Sristy-78/Leetcode/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
