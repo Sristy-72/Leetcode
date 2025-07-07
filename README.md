@@ -302,6 +302,7 @@ Leetcode solutions
 | [0494-target-sum](https://github.com/Sristy-78/Leetcode/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sristy-78/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0560-subarray-sum-equals-k](https://github.com/Sristy-78/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0739-daily-temperatures](https://github.com/Sristy-78/Leetcode/tree/master/0739-daily-temperatures) |
@@ -370,6 +371,7 @@ Leetcode solutions
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0432-all-oone-data-structure](https://github.com/Sristy-78/Leetcode/tree/master/0432-all-oone-data-structure) |
 | [0496-next-greater-element-i](https://github.com/Sristy-78/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Sristy-78/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sristy-78/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -617,6 +619,7 @@ Leetcode solutions
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sristy-78/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sristy-78/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sristy-78/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
