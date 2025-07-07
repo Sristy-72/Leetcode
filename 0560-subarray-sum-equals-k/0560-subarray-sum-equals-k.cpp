@@ -26,9 +26,7 @@ for(int i=0;i<n;i++){
     if(mp.find(sum-k)!=mp.end()){
         cnt= cnt+ mp[sum-k];
     }
-        mp[sum]++;
-    
-   
+        mp[sum]++;   
 }
 return cnt;
     }
