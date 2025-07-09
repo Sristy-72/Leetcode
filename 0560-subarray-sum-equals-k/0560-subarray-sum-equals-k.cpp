@@ -15,19 +15,20 @@ public:
     //     }
     // }
     // return cnt;
-  int sum=0;
-unordered_map<int, int> mp;
-mp[0]=1;
-for(int i=0;i<n;i++){
-    sum= sum + arr[i];
-    // if(sum==k){
-    //     cnt++;
-    // }
+ unordered_map<int, int>mp;
+ int sum=0;
+ mp[0]=0;
+ for(int i=0;i<n;i++){
+    sum= sum+arr[i];
+    if(sum==k){
+        cnt=cnt+1;
+    }
     if(mp.find(sum-k)!=mp.end()){
         cnt= cnt+ mp[sum-k];
     }
-        mp[sum]++;   
-}
-return cnt;
+    mp[sum]++;
+
+ }
+ return cnt;
     }
 };
