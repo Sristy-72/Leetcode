@@ -436,6 +436,7 @@ Leetcode solutions
 | [0078-subsets](https://github.com/Sristy-78/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sristy-78/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sristy-78/Leetcode/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Sristy-78/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sristy-78/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sristy-78/Leetcode/tree/master/0342-power-of-four) |
@@ -508,6 +509,7 @@ Leetcode solutions
 | [0062-unique-paths](https://github.com/Sristy-78/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Sristy-78/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sristy-78/Leetcode/tree/master/0342-power-of-four) |
@@ -523,6 +525,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristy-78/Leetcode/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/Sristy-78/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0342-power-of-four](https://github.com/Sristy-78/Leetcode/tree/master/0342-power-of-four) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Sristy-72/Leetcode/tree/master/1951-find-the-winner-of-the-circular-game) |
