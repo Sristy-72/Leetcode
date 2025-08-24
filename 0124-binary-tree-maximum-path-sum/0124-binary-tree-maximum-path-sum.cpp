@@ -11,18 +11,19 @@
  */
 class Solution {
 public:
+int maxsum(TreeNode*root, int&sum){
+      if(root==NULL) return 0;
+      int lhs=max(0, maxsum(root->left, sum));
+      int rhs= max(0,maxsum(root->right, sum));
+      sum= max(sum,root->val+ lhs+rhs);
+      return root->val+ max(lhs,rhs);
+
+}
     int maxPathSum(TreeNode* root) {
-        int ans= INT_MIN;
-         maxPath(root,ans);
-         return ans;
-    }
-    private:
-    int maxPath(TreeNode*root, int&ans){
-        if(root==nullptr)
-        return 0;
-        const int l= max(0, maxPath(root->left,ans));
-        const int r= max(0, maxPath(root->right,ans));
-        ans=max(ans,root->val+l+r);
-        return root->val+max(l,r);
+        int sum=INT_MIN;
+        maxsum(root, sum);
+        return sum;
     }
 };
+  
+   
