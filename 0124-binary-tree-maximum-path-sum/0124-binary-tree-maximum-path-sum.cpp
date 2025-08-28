@@ -11,7 +11,7 @@
  */
 class Solution {
 public:
-int maxsum(TreeNode*root, int&sum){
+   int maxsum(TreeNode*root, int&sum){
       if(root==NULL) return 0;
       int lhs=max(0, maxsum(root->left, sum));
       int rhs= max(0,maxsum(root->right, sum));
@@ -23,7 +23,6 @@ int maxsum(TreeNode*root, int&sum){
         int sum=INT_MIN;
         maxsum(root, sum);
         return sum;
+        
     }
 };
-  
-   
