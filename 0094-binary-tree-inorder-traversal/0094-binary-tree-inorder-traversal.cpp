@@ -23,18 +23,7 @@ public:
         // inorder(root, arr);
         // return arr;
 
-        // vector<int>v;
-        // if(root==NULL) return v;
-        // stack<TreeNode*>st;
-        // st.push(root);
-        // while(!st.empty()){
-        //      root= st.top();
-        //      st.pop();
-        //      if(root->left!=NULL) st.push(root->left);
-        //      v.push_back(root->val);
-        //      if(root->right!=NULL) st.push(root->right);     
-        // }
-        // return v;
+    
 
         stack<TreeNode*>st;
         vector<int>v;
