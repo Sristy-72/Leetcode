@@ -228,6 +228,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -306,6 +307,7 @@ Leetcode solutions
 | [0064-minimum-path-sum](https://github.com/Sristy-78/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sristy-78/Leetcode/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sristy-78/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Sristy-78/Leetcode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Sristy-78/Leetcode/tree/master/0136-single-number) |
@@ -489,6 +491,7 @@ Leetcode solutions
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
+| [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Sristy-78/Leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0283-move-zeroes) |
