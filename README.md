@@ -312,6 +312,7 @@ Leetcode solutions
 | [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sristy-78/Leetcode/tree/master/0090-subsets-ii) |
 | [0120-triangle](https://github.com/Sristy-78/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sristy-78/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sristy-78/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
@@ -615,6 +616,7 @@ Leetcode solutions
 | [0064-minimum-path-sum](https://github.com/Sristy-78/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0070-climbing-stairs) |
 | [0120-triangle](https://github.com/Sristy-78/Leetcode/tree/master/0120-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Sristy-78/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Sristy-78/Leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Sristy-78/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/Sristy-78/Leetcode/tree/master/0198-house-robber) |
