@@ -303,6 +303,7 @@ Leetcode solutions
 | [0039-combination-sum](https://github.com/Sristy-78/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sristy-78/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Sristy-78/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/Sristy-78/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Sristy-78/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sristy-78/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sristy-78/Leetcode/tree/master/0054-spiral-matrix) |
@@ -556,6 +557,7 @@ Leetcode solutions
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sristy-78/Leetcode/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Sristy-78/Leetcode/tree/master/0009-palindrome-number) |
+| [0048-rotate-image](https://github.com/Sristy-78/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Sristy-78/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
@@ -694,6 +696,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Sristy-78/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sristy-78/Leetcode/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Sristy-78/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sristy-78/Leetcode/tree/master/0064-minimum-path-sum) |
