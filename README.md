@@ -227,6 +227,7 @@ Leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Sristy-78/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
@@ -308,6 +309,7 @@ Leetcode solutions
 | [0053-maximum-subarray](https://github.com/Sristy-78/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sristy-78/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Sristy-78/Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Sristy-78/Leetcode/tree/master/0056-merge-intervals) |
 | [0063-unique-paths-ii](https://github.com/Sristy-78/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sristy-78/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0073-set-matrix-zeroes) |
