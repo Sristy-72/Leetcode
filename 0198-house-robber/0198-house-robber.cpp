@@ -1,55 +1,18 @@
 class Solution {
 public:
-//int solve(vector<int>&nums, int n,vector<int>&dp){
+    int solve(int ind, vector<int>& nums, vector<int>& dp) {
+        if(ind == 0) return nums[0];        
+        if(ind < 0) return 0;               
+        if(dp[ind] != -1) return dp[ind];   
+        int pick = nums[ind] + solve(ind - 2, nums, dp);
+        int notPick = solve(ind - 1, nums, dp);
 
-//    if(n==0) return nums[n];
-//    if(n<0) return 0;
-   
-//       int pick = nums[ind] + solve(nums,ind-2);
-//       int nonpick= 0+ solve(nums, ind-1);
-//       return max(pick,nonpick);
-   
-    
-    // memoization
-   
-//    if(dp[ind]!= -1) return dp[ind];
-//    int pick = nums[ind] + solve(nums, ind-2, dp);
-//    int nonpick = 0 + solve(nums, ind-1, dp);
-//    return dp[ind]= max(pick, nonpick);
+        return dp[ind] = max(pick, notPick);
+    }
 
-     // tabulation
-    //  dp[0]=nums[0];
-    
-    //  for(int i=1;i<n;i++){
-    //      int pick = nums[i];
-    //     if(i>1)
-    //         pick+= dp[i-2];
-    //         int nonpick = dp[i-1];
-    //        dp[i]=max(pick,nonpick);
-    //  }
-    //   return dp[n-1];
-    // }
-
-    // space optimization
-    // int rob(vector<int>& nums,int n) {
-    //     int n=nums.size();
-    //   vector<int>dp(n,-1);//Declare a dp[] array of size n+1 and initialize it to -1
-    //    return solve(nums,n,dp); 
-    // }
-
-    int rob(vector<int>&nums){
-        int n= nums.size();
-        int prev= nums[0];
-        int prev2=0;
-        for(int i=1;i<n;i++){
-            int pick= nums[i];
-            if(i>1)
-            pick+= prev2;
-            int notpick= 0+prev;
-            int curr=max(pick,notpick);
-            prev2= prev;
-            prev=curr;
-        }
-        return prev;
+    int rob(vector<int>& nums) {
+        int n = nums.size();
+        vector<int> dp(n, -1);
+        return solve(n - 1, nums, dp);
     }
 };
