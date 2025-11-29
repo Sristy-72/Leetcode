@@ -385,6 +385,7 @@ Leetcode solutions
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sristy-78/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Sristy-78/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Sristy-72/Leetcode/tree/master/2846-robot-collisions) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sristy-78/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sristy-78/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sristy-78/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -589,6 +590,7 @@ Leetcode solutions
 | [2432-number-of-zero-filled-subarrays](https://github.com/Sristy-78/Leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2645-pass-the-pillow](https://github.com/Sristy-72/Leetcode/tree/master/2645-pass-the-pillow) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sristy-78/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
+| [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sristy-78/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Recursion
 |  |
 | ------- |
