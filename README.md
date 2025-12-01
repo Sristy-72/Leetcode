@@ -342,6 +342,7 @@ Leetcode solutions
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sristy-78/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0704-binary-search](https://github.com/Sristy-78/Leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Sristy-78/Leetcode/tree/master/0733-flood-fill) |
@@ -398,6 +399,7 @@ Leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/Sristy-78/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0704-binary-search](https://github.com/Sristy-78/Leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sristy-72/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
