@@ -1,11 +1,11 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        int start=0,end=nums.size()-1;
+       int start=0,end=nums.size()-1;
         int first=-1;
         int last= -1;
         int mid;
-        // fisrt occurance
+        // fisrt occu
         while(start<=end){
             mid= start + (end-start)/2;
             if(nums[mid]==target){
@@ -18,7 +18,7 @@ public:
             else
             end=mid-1;
         }
-        // last occurance
+        // last occ
         start=0,end=nums.size()-1;
         while(start<=end){
             mid= start + (end-start)/2;
