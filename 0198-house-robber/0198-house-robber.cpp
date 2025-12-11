@@ -11,7 +11,7 @@ int solve(vector<int>&nums, int ind, vector<int>&dp){
 }
     int rob(vector<int>& nums) {
         int n= nums.size();
-        vector<int>dp(n+1,-1);
+        vector<int>dp(n,-1);
          return solve(nums, n-1, dp);
     }
 };
