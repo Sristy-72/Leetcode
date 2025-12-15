@@ -1,7 +1,7 @@
 class Solution {
 public:
     int tribonacci(int n) {
-       int prev3=0;
+          int prev3=0;
      int prev2=1;
      int prev1=1;
      if(n==0) return 0;
