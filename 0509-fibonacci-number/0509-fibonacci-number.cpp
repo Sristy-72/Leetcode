@@ -1,8 +1,13 @@
 class Solution {
 public:
+int solve(int ind, vector<int>dp){
+    if(ind<=1) return ind;
+    if(dp[ind]!=-1) return dp[ind];
+    return solve(ind-1,dp)+ solve(ind-2,dp);
+}
     int fib(int n) {
-        if(n<=1) return n;
-        return fib(n-1)+fib(n-2);
-        
+   vector<int>dp(n+1, -1);
+   return solve(n, dp);    
+   
     }
 };
