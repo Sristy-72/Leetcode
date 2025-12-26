@@ -1,36 +1,28 @@
 class Solution {
 public:
-long long int solve(vector<int>&nums){
-    // if(ind==0) return nums[ind];
-    // if(ind<0) return 0;
-   long long int prev2= 0;
-    long long int prev=nums[0];
-    for(int i=1;i<nums.size();i++){
-      long long  int pick=nums[i];
-      if(i>1)
-      pick+=prev2;
-     long long int nonpick=0+ prev;
-      long long  int curr= max(pick,nonpick);
-       prev2=prev;
-       prev=curr;
-    }
-    return prev;
-}
-int robhouse(vector<int>&nums, int n){
-    vector<int>arr1;
-    vector<int>arr2;
-    if(n==1) return nums[0];
-for(int i=0;i<n;i++){
-    if(i!=0) arr1.push_back(nums[i]);
-    if(i!=n-1) arr2.push_back(nums[i]);
+int solve(vector<int>&nums, int ind, vector<int>&dp){
+    if(ind==0) return nums[0];
+   if(ind<0) return 0;
+    if(dp[ind]!=-1) return dp[ind];
+     int n= nums.size();
     
-}
- long long int ans1=solve(arr1);
-   long long int ans2=solve(arr2);
-    return max(ans1,ans2);
+     
+    int pick= nums[ind]+ solve(nums, ind-2,dp);
+    int not_pick= solve(nums, ind-1,dp);
+    return dp[ind]=max(pick, not_pick);
 }
     int rob(vector<int>& nums) {
-       int n=nums.size();
-       return robhouse(nums,n); 
+        int n= nums.size();
+        if(n==1) return nums[0];
+        vector<int>temp1, temp2;
+        for(int i=1;i<n;i++){
+         temp1.push_back(nums[i]);
+        }
+        for(int i=0;i<n-1;i++){
+            temp2.push_back(nums[i]);
+        }
+        vector<int>dp1(temp1.size(),-1);
+        vector<int>dp2(temp2.size(),-1);
+        return max(solve(temp1,temp1.size()-1,dp1), solve(temp2, temp2.size()-1,dp2));
     }
 };
