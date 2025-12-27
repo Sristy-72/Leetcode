@@ -233,6 +233,7 @@ Leetcode solutions
 | [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
@@ -420,6 +421,7 @@ Leetcode solutions
 | [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
@@ -454,6 +456,7 @@ Leetcode solutions
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0214-shortest-palindrome](https://github.com/Sristy-78/Leetcode/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sristy-78/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
