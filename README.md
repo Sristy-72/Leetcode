@@ -357,6 +357,7 @@ Leetcode solutions
 | [1196-filling-bookcase-shelves](https://github.com/Sristy-78/Leetcode/tree/master/1196-filling-bookcase-shelves) |
 | [1293-three-consecutive-odds](https://github.com/Sristy-72/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Sristy-78/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristy-78/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sristy-78/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sristy-78/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Sristy-78/Leetcode/tree/master/1511-count-number-of-teams) |
@@ -406,6 +407,7 @@ Leetcode solutions
 | [0704-binary-search](https://github.com/Sristy-78/Leetcode/tree/master/0704-binary-search) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristy-78/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sristy-72/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/Sristy-78/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sristy-78/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -738,6 +740,7 @@ Leetcode solutions
 | [0498-diagonal-traverse](https://github.com/Sristy-78/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/Sristy-78/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sristy-78/Leetcode/tree/master/1036-rotting-oranges) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristy-78/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sristy-78/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sristy-78/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
