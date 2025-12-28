@@ -4,9 +4,16 @@ public:
         int cnt=0;
         int n= grid.size();
         int m= grid[0].size();
-        for(int i=0;i<n;i++){
-            for(int j=0;j<m;j++){
-                if(grid[i][j]<0) cnt++;
+        int row=0;
+        int col=m-1;
+
+        while(row<n && col>=0){
+            if(grid[row][col]<0){
+                cnt+=(n-row);
+                col--;
+            }
+            else{
+                row++;
             }
         }
         return cnt;
