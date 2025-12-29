@@ -300,6 +300,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sristy-78/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/Sristy-78/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -452,6 +453,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sristy-78/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0014-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0022-generate-parentheses) |
 | [0125-valid-palindrome](https://github.com/Sristy-78/Leetcode/tree/master/0125-valid-palindrome) |
@@ -795,6 +797,7 @@ Leetcode solutions
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/Sristy-78/Leetcode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Sristy-78/Leetcode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/Sristy-78/Leetcode/tree/master/2494-sum-of-prefix-scores-of-strings) |
