@@ -302,6 +302,7 @@ Leetcode solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Sristy-78/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sristy-78/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sristy-78/Leetcode/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
@@ -522,6 +523,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Sristy-78/Leetcode/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/Sristy-78/Leetcode/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
