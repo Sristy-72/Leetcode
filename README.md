@@ -299,6 +299,7 @@ Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sristy-78/Leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sristy-78/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -422,6 +423,7 @@ Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sristy-78/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sristy-78/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0073-set-matrix-zeroes) |
