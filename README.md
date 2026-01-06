@@ -274,6 +274,7 @@ Leetcode solutions
 | [0733-flood-fill](https://github.com/Sristy-78/Leetcode/tree/master/0733-flood-fill) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Sristy-78/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sristy-72/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Breadth-First Search
@@ -290,6 +291,7 @@ Leetcode solutions
 | [0733-flood-fill](https://github.com/Sristy-78/Leetcode/tree/master/0733-flood-fill) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Sristy-78/Leetcode/tree/master/1036-rotting-oranges) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph](https://github.com/Sristy-72/Leetcode/tree/master/1431-all-ancestors-of-a-node-in-a-directed-acyclic-graph) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Topological Sort
@@ -715,6 +717,7 @@ Leetcode solutions
 | [0783-search-in-a-binary-search-tree](https://github.com/Sristy-78/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sristy-78/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -734,6 +737,7 @@ Leetcode solutions
 | [0783-search-in-a-binary-search-tree](https://github.com/Sristy-78/Leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sristy-78/Leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1484-linked-list-in-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1484-linked-list-in-binary-tree) |
 ## Shortest Path
 |  |
