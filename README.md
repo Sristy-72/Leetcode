@@ -245,6 +245,7 @@ Leetcode solutions
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sristy-78/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2846-robot-collisions](https://github.com/Sristy-72/Leetcode/tree/master/2846-robot-collisions) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sristy-78/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sristy-78/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 ## Heap (Priority Queue)
 |  |
@@ -398,6 +399,7 @@ Leetcode solutions
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sristy-78/Leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2755-extra-characters-in-a-string](https://github.com/Sristy-78/Leetcode/tree/master/2755-extra-characters-in-a-string) |
 | [2846-robot-collisions](https://github.com/Sristy-72/Leetcode/tree/master/2846-robot-collisions) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sristy-78/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sristy-78/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sristy-78/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
@@ -885,6 +887,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/Sristy-78/Leetcode/tree/master/1656-count-good-triplets) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sristy-78/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Monotonic Queue
 |  |
 | ------- |
