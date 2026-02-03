@@ -404,6 +404,7 @@ Leetcode solutions
 | [3291-find-if-array-can-be-sorted](https://github.com/Sristy-78/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sristy-78/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3637-trionic-array-i](https://github.com/Sristy-78/Leetcode/tree/master/3637-trionic-array-i) |
 ## Binary Search
 |  |
 | ------- |
