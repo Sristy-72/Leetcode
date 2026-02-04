@@ -4,7 +4,6 @@ public:
         int n= nums.size();
         long long largest=nums[0];
         long long second_largest= LLONG_MIN;
-        
         long long third_largest= LLONG_MIN;
        
         for(int i=0;i<n;i++){
