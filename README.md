@@ -376,6 +376,7 @@ Leetcode solutions
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sristy-78/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1646-kth-missing-positive-number](https://github.com/Sristy-78/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Sristy-78/Leetcode/tree/master/1656-count-good-triplets) |
+| [1672-richest-customer-wealth](https://github.com/Sristy-78/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1720-crawler-log-folder](https://github.com/Sristy-72/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sristy-78/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sristy-78/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -763,6 +764,7 @@ Leetcode solutions
 | [0733-flood-fill](https://github.com/Sristy-78/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sristy-78/Leetcode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristy-78/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Sristy-78/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sristy-78/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sristy-78/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Prefix Sum
