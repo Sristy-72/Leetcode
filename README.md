@@ -231,6 +231,7 @@ Leetcode solutions
 | [0056-merge-intervals](https://github.com/Sristy-78/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
@@ -332,6 +333,7 @@ Leetcode solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sristy-78/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sristy-78/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sristy-78/Leetcode/tree/master/0198-house-robber) |
@@ -443,6 +445,7 @@ Leetcode solutions
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sristy-78/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
@@ -789,6 +792,7 @@ Leetcode solutions
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sristy-78/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sristy-78/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sristy-78/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -912,4 +916,5 @@ Leetcode solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sristy-78/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sristy-78/Leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
