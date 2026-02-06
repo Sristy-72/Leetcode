@@ -234,6 +234,7 @@ Leetcode solutions
 | [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Sristy-78/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -339,6 +340,7 @@ Leetcode solutions
 | [0198-house-robber](https://github.com/Sristy-78/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sristy-78/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Sristy-78/Leetcode/tree/master/0229-majority-element-ii) |
 | [0239-sliding-window-maximum](https://github.com/Sristy-78/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0283-move-zeroes) |
@@ -448,6 +450,7 @@ Leetcode solutions
 | [0073-set-matrix-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Sristy-78/Leetcode/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -795,6 +798,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Sristy-78/Leetcode/tree/master/0229-majority-element-ii) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/Sristy-78/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1341-split-a-string-in-balanced-strings](https://github.com/Sristy-78/Leetcode/tree/master/1341-split-a-string-in-balanced-strings) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sristy-78/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
