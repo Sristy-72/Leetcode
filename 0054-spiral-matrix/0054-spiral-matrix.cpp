@@ -1,40 +1,36 @@
 class Solution {
 public:
     vector<int> spiralOrder(vector<vector<int>>& matrix) {
-      vector<int> result;
-      if(matrix.size()==0)
-      return result;
-      int rowbegin=0;
-      int rowend=matrix.size()-1;
-      int colbegin=0;
-      int colend=matrix[0].size()-1;
-      while(rowbegin<=rowend && colbegin<=colend){
-        // this is for traversing from left to right
-      for(int i=colbegin ; i<=colend;i++){
-        result.push_back(matrix[rowbegin][i]);
-      }
-      rowbegin++;
-      // this is for traversing from top to bottom
-      for(int i=rowbegin;i<=rowend;i++){
-        result.push_back(matrix[i][colend]);
-      }
-      colend--;
-      // travering from right to left
-      if(rowbegin<=rowend){
-        for(int i=colend;i>=colbegin;i--){
-            result.push_back(matrix[rowend][i]);
-        }
-      }
-      rowend--;
-      // traversing from down to top
-      if(colbegin<=colend){
-        for(int j=rowend; j>=rowbegin; j--){
-            result.push_back(matrix[j][colbegin]);
-        }
-        }
-        colbegin++;
-        }
-        return result;
-      
+        int m=matrix.size();
+        int n= matrix[0].size();
+        vector<int>ans;
+        int srow=0;
+        int scol=0;
+        int endrow=m-1;
+        int endcol=n-1;
+          while(srow<=endrow && scol<= endcol ){
+          for(int j= scol;j<=endcol;j++){
+            ans.push_back(matrix[srow][j]);
+          }  
+          for(int i=srow+1;i<=endrow;i++){
+             ans.push_back(matrix[i][endcol]);
+          }
+         if (srow < endrow) {
+                for (int j = endcol - 1; j >= scol; j--) {
+                    ans.push_back(matrix[endrow][j]);
+                }
+            }
+
+            if (scol < endcol) {
+                for (int i = endrow - 1; i > srow; i--) {
+                    ans.push_back(matrix[i][scol]);
+                }
+            }
+          srow++;
+          endrow--;
+          endcol--;
+          scol++;
+          }
+    return ans;
     }
 };
