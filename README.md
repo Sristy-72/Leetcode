@@ -488,6 +488,7 @@ Leetcode solutions
 | [0014-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0022-generate-parentheses) |
+| [0067-add-binary](https://github.com/Sristy-78/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sristy-78/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sristy-78/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Sristy-78/Leetcode/tree/master/0179-largest-number) |
@@ -534,6 +535,7 @@ Leetcode solutions
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sristy-78/Leetcode/tree/master/0067-add-binary) |
 | [0078-subsets](https://github.com/Sristy-78/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sristy-78/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sristy-78/Leetcode/tree/master/0136-single-number) |
@@ -592,6 +594,7 @@ Leetcode solutions
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Sristy-78/Leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Sristy-78/Leetcode/tree/master/0067-add-binary) |
 | [0498-diagonal-traverse](https://github.com/Sristy-78/Leetcode/tree/master/0498-diagonal-traverse) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sristy-78/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -622,6 +625,7 @@ Leetcode solutions
 | [0009-palindrome-number](https://github.com/Sristy-78/Leetcode/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Sristy-78/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Sristy-78/Leetcode/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Sristy-78/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sristy-78/Leetcode/tree/master/0231-power-of-two) |
