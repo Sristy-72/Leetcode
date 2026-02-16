@@ -539,6 +539,7 @@ Leetcode solutions
 | [0078-subsets](https://github.com/Sristy-78/Leetcode/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sristy-78/Leetcode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sristy-78/Leetcode/tree/master/0136-single-number) |
+| [0190-reverse-bits](https://github.com/Sristy-78/Leetcode/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Sristy-78/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sristy-78/Leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -936,4 +937,5 @@ Leetcode solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/Sristy-78/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sristy-78/Leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/Sristy-78/Leetcode/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
