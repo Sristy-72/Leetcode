@@ -365,6 +365,7 @@ Leetcode solutions
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Sristy-78/Leetcode/tree/master/0733-flood-fill) |
 | [0739-daily-temperatures](https://github.com/Sristy-78/Leetcode/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sristy-78/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
@@ -724,6 +725,7 @@ Leetcode solutions
 | [0509-fibonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/0509-fibonacci-number) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Sristy-78/Leetcode/tree/master/0647-palindromic-substrings) |
+| [0746-min-cost-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/1137-n-th-tribonacci-number) |
