@@ -365,6 +365,7 @@ Leetcode solutions
 | [0560-subarray-sum-equals-k](https://github.com/Sristy-78/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/Sristy-78/Leetcode/tree/master/0605-can-place-flowers) |
 | [0704-binary-search](https://github.com/Sristy-78/Leetcode/tree/master/0704-binary-search) |
+| [0724-find-pivot-index](https://github.com/Sristy-78/Leetcode/tree/master/0724-find-pivot-index) |
 | [0729-my-calendar-i](https://github.com/Sristy-78/Leetcode/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [0733-flood-fill](https://github.com/Sristy-78/Leetcode/tree/master/0733-flood-fill) |
@@ -819,6 +820,7 @@ Leetcode solutions
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Sristy-78/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0560-subarray-sum-equals-k](https://github.com/Sristy-78/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/Sristy-78/Leetcode/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/Sristy-78/Leetcode/tree/master/0731-my-calendar-ii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sristy-78/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sristy-78/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
