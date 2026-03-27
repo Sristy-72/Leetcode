@@ -510,6 +510,7 @@ Leetcode solutions
 | [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sristy-78/Leetcode/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
@@ -585,6 +586,7 @@ Leetcode solutions
 | [0287-find-the-duplicate-number](https://github.com/Sristy-78/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sristy-78/Leetcode/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sristy-78/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
@@ -730,6 +732,7 @@ Leetcode solutions
 | [0213-house-robber-ii](https://github.com/Sristy-78/Leetcode/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Sristy-78/Leetcode/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sristy-78/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sristy-78/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/0509-fibonacci-number) |
