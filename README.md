@@ -246,6 +246,7 @@ Leetcode solutions
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sristy-72/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Sristy-78/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sristy-78/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -398,6 +399,7 @@ Leetcode solutions
 | [1646-kth-missing-positive-number](https://github.com/Sristy-78/Leetcode/tree/master/1646-kth-missing-positive-number) |
 | [1656-count-good-triplets](https://github.com/Sristy-78/Leetcode/tree/master/1656-count-good-triplets) |
 | [1672-richest-customer-wealth](https://github.com/Sristy-78/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Sristy-78/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1720-crawler-log-folder](https://github.com/Sristy-72/Leetcode/tree/master/1720-crawler-log-folder) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Sristy-78/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sristy-78/Leetcode/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
@@ -484,6 +486,7 @@ Leetcode solutions
 | [1044-find-common-characters](https://github.com/Sristy-78/Leetcode/tree/master/1044-find-common-characters) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Sristy-78/Leetcode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/Sristy-78/Leetcode/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Sristy-78/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sristy-78/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sristy-78/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -594,6 +597,7 @@ Leetcode solutions
 | [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sristy-78/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/Sristy-78/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Sristy-78/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sristy-78/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sristy-78/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
