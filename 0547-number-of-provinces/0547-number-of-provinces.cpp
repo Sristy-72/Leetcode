@@ -1,53 +1,36 @@
 class Solution {
 public:
-// void bfs(vector<vector<int>>&adjls ,vector<int>&vis,int start ){
-//    vis[start]=1;
-//     queue<int>q;
-//    q.push(start);
-//    while(!q.empty()){
-//     int node= q.front();
-//     q.pop();
-//     for(auto it:adjls[node]){
-//         if(!vis[it]){
-//             vis[it]=1;
-//             q.push(it);
-//         }
-//     }
-//    } 
-// }
-void dfs(vector<vector<int>>adjls, vector<int>&vis, int node){
-    vis[node]=1;
-    for(auto it:adjls[node]){
-        if(!vis[it]){
-            dfs(adjls, vis, it);
-        }
+void noOfProvince(vector<vector<int>>&isConnected,vector<int>&vis,int start){
+    vis[start]=1;
+    int n= isConnected.size();
+    for(int i=0;i<n;i++){
+     if(isConnected[start][i]==1 && vis[i]==0){
+        vis[i]=1;
+        noOfProvince(isConnected, vis, i);
+     }
     }
 
 }
     int findCircleNum(vector<vector<int>>& isConnected) {
         int n= isConnected.size();
-        vector<int>vis(n,0);
-       vector< vector<int>>adjls(n);
-        // converting adjacency matrix to adjacency list
-        for(int i=0;i<n;i++){
-            for(int j=0;j<n;j++){
-               if(isConnected[i][j]==1 && i!=j){
-                adjls[i].push_back(j);
-                adjls[j].push_back(i);
-               }
-            }
-        }
+        int u, v;
+       vector<int>vis(n,0);
+    //    vector<vector<int>>adj(n);
+    //     for(int i=0;i<n;i++){
+    //      for(int j=0;j<n;j++){
+    //         if(isConnected[i][j]==1 && i!=j){
+    //             adj[i].push_back(j);      
+    //         }
+    //      }
+    //     }
         int cnt=0;
-        for(int i=0;i<n;i++){
-         if(!vis[i]){
-            cnt++;
-            // bfs(adjls, vis,i);
-            dfs(adjls, vis,i);
-         }
-         
-        }
-
-      return cnt;
-       
+        int start=0;
+       for(int i=0;i<n;i++){
+       if(vis[i]==0){
+        cnt++;
+        noOfProvince(isConnected,vis, i);
+       }
+     }
+     return cnt;
     }
 };
