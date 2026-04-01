@@ -349,6 +349,7 @@ Leetcode solutions
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sristy-78/Leetcode/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Sristy-78/Leetcode/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/Sristy-78/Leetcode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/Sristy-78/Leetcode/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sristy-78/Leetcode/tree/master/0229-majority-element-ii) |
@@ -660,6 +661,7 @@ Leetcode solutions
 | [0067-add-binary](https://github.com/Sristy-78/Leetcode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Sristy-78/Leetcode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sristy-78/Leetcode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/Sristy-78/Leetcode/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
@@ -844,6 +846,7 @@ Leetcode solutions
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sristy-78/Leetcode/tree/master/0204-count-primes) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sristy-78/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Counting
 |  |
@@ -960,6 +963,7 @@ Leetcode solutions
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sristy-78/Leetcode/tree/master/0204-count-primes) |
 | [1656-count-good-triplets](https://github.com/Sristy-78/Leetcode/tree/master/1656-count-good-triplets) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sristy-78/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Monotonic Queue
