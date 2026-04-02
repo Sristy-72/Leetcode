@@ -432,6 +432,7 @@ Leetcode solutions
 | [2965-find-missing-and-repeated-values](https://github.com/Sristy-78/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sristy-78/Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sristy-78/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Sristy-78/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sristy-78/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-transformed-array](https://github.com/Sristy-78/Leetcode/tree/master/3379-transformed-array) |
@@ -683,6 +684,7 @@ Leetcode solutions
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/Sristy-78/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 | [2965-find-missing-and-repeated-values](https://github.com/Sristy-78/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sristy-78/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Sristy-78/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Recursion
 |  |
 | ------- |
