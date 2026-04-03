@@ -520,6 +520,7 @@ Leetcode solutions
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/Sristy-78/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Sristy-78/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sristy-78/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0392-is-subsequence) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0516-longest-palindromic-subsequence) |
@@ -597,6 +598,7 @@ Leetcode solutions
 | [0283-move-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Sristy-78/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Sristy-78/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sristy-78/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
