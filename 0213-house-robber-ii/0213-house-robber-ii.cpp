@@ -1,28 +1,26 @@
 class Solution {
 public:
-int solve(vector<int>&nums, int ind, vector<int>&dp){
-    if(ind==0) return nums[0];
-   if(ind<0) return 0;
-    if(dp[ind]!=-1) return dp[ind];
-     int n= nums.size();
+int solve(vector<int>&nums,  int end, vector<int>&dp){
+    if(end<0) return 0;
+    if(end==0) return nums[0];
+    if(end==1) return max(nums[0],nums[1]);
     
-     
-    int pick= nums[ind]+ solve(nums, ind-2,dp);
-    int not_pick= solve(nums, ind-1,dp);
-    return dp[ind]=max(pick, not_pick);
+    if(dp[end]!=-1) return dp[end];
+    // if(dp2[start]!=-1) return dp[start];
+    
+   int pick= nums[end]+solve(nums, end-2,dp);
+   int notPick=solve(nums,end-1, dp);
+    return dp[end]=max(pick, notPick);
 }
     int rob(vector<int>& nums) {
         int n= nums.size();
         if(n==1) return nums[0];
-        vector<int>temp1, temp2;
-        for(int i=1;i<n;i++){
-         temp1.push_back(nums[i]);
-        }
-        for(int i=0;i<n-1;i++){
-            temp2.push_back(nums[i]);
-        }
-        vector<int>dp1(temp1.size(),-1);
-        vector<int>dp2(temp2.size(),-1);
-        return max(solve(temp1,temp1.size()-1,dp1), solve(temp2, temp2.size()-1,dp2));
+        vector<int>temp1(nums.begin()+1, nums.end());
+        vector<int>temp2(nums.begin(),nums.end()-1);
+        vector<int>dp1(n,-1);
+        vector<int>dp2(n,-1);
+        int option1= solve(temp1,temp1.size()-1,dp1 );
+        int option2= solve(temp2,temp2.size()-1, dp2);
+        return max(option1, option2);
     }
 };
