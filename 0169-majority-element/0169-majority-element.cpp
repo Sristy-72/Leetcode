@@ -9,7 +9,7 @@ public:
                 
                 cnt++;
             }
-            else if(cnt==0 && nums[i]!=maj){
+            else if(cnt==0 ){
               maj= nums[i];
               cnt++;
             }
