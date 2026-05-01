@@ -449,6 +449,7 @@ Leetcode solutions
 | [3291-find-if-array-can-be-sorted](https://github.com/Sristy-78/Leetcode/tree/master/3291-find-if-array-can-be-sorted) |
 | [3329-find-the-length-of-the-longest-common-prefix](https://github.com/Sristy-78/Leetcode/tree/master/3329-find-the-length-of-the-longest-common-prefix) |
 | [3379-transformed-array](https://github.com/Sristy-78/Leetcode/tree/master/3379-transformed-array) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sristy-78/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sristy-78/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/Sristy-78/Leetcode/tree/master/3637-trionic-array-i) |
 ## Binary Search
@@ -704,6 +705,7 @@ Leetcode solutions
 | [2965-find-missing-and-repeated-values](https://github.com/Sristy-78/Leetcode/tree/master/2965-find-missing-and-repeated-values) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sristy-78/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Sristy-78/Leetcode/tree/master/3232-find-if-digit-game-can-be-won) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sristy-78/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -866,6 +868,7 @@ Leetcode solutions
 | [1732-find-the-highest-altitude](https://github.com/Sristy-78/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/Sristy-78/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sristy-78/Leetcode/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3432-count-partitions-with-even-sum-difference](https://github.com/Sristy-78/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 ## Number Theory
 |  |
 | ------- |
