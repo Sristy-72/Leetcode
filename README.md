@@ -369,6 +369,7 @@ Leetcode solutions
 | [0322-coin-change](https://github.com/Sristy-78/Leetcode/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Sristy-72/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0396-rotate-function](https://github.com/Sristy-78/Leetcode/tree/master/0396-rotate-function) |
 | [0414-third-maximum-number](https://github.com/Sristy-78/Leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Sristy-78/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0485-max-consecutive-ones](https://github.com/Sristy-78/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -684,6 +685,7 @@ Leetcode solutions
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Sristy-78/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Sristy-78/Leetcode/tree/master/0342-power-of-four) |
+| [0396-rotate-function](https://github.com/Sristy-78/Leetcode/tree/master/0396-rotate-function) |
 | [0509-fibonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/0509-fibonacci-number) |
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sristy-78/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
@@ -765,6 +767,7 @@ Leetcode solutions
 | [0241-different-ways-to-add-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/Sristy-78/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/Sristy-78/Leetcode/tree/master/0396-rotate-function) |
 | [0416-partition-equal-subset-sum](https://github.com/Sristy-78/Leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sristy-78/Leetcode/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/0509-fibonacci-number) |
