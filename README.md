@@ -392,6 +392,7 @@ Leetcode solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sristy-78/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [0875-koko-eating-bananas](https://github.com/Sristy-78/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0896-monotonic-array](https://github.com/Sristy-78/Leetcode/tree/master/0896-monotonic-array) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sristy-78/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1036-rotting-oranges](https://github.com/Sristy-78/Leetcode/tree/master/1036-rotting-oranges) |
