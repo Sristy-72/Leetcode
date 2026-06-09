@@ -7,7 +7,7 @@ public:
         for(int i=0;i<n;i++){
             int first= nums[i];
             int second= target-first;
-            if(mp.find(second)!= mp.end()){
+            if(mp.find(second)!= mp.end()){ // it only takes O(n) time complexity
                 ans.push_back(i);
                 ans.push_back(mp[second]);
                 break;
