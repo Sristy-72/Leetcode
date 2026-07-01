@@ -409,6 +409,7 @@ Leetcode solutions
 | [1470-shuffle-the-array](https://github.com/Sristy-78/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sristy-78/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Sristy-78/Leetcode/tree/master/1511-count-number-of-teams) |
+| [1572-matrix-diagonal-sum](https://github.com/Sristy-78/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/Sristy-78/Leetcode/tree/master/1580-shuffle-the-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sristy-72/Leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sristy-72/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -860,6 +861,7 @@ Leetcode solutions
 | [0733-flood-fill](https://github.com/Sristy-78/Leetcode/tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/Sristy-78/Leetcode/tree/master/1036-rotting-oranges) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristy-78/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Sristy-78/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Sristy-78/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sristy-78/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/Sristy-78/Leetcode/tree/master/2411-spiral-matrix-iv) |
