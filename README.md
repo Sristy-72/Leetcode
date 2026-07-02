@@ -404,6 +404,7 @@ Leetcode solutions
 | [1293-three-consecutive-odds](https://github.com/Sristy-72/Leetcode/tree/master/1293-three-consecutive-odds) |
 | [1325-path-with-maximum-probability](https://github.com/Sristy-78/Leetcode/tree/master/1325-path-with-maximum-probability) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sristy-78/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sristy-78/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sristy-78/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sristy-78/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1470-shuffle-the-array](https://github.com/Sristy-78/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -660,6 +661,7 @@ Leetcode solutions
 | [0592-fraction-addition-and-subtraction](https://github.com/Sristy-78/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
+| [1389-create-target-array-in-the-given-order](https://github.com/Sristy-78/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1642-water-bottles](https://github.com/Sristy-72/Leetcode/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/Sristy-72/Leetcode/tree/master/1803-average-waiting-time) |
 | [1920-build-array-from-permutation](https://github.com/Sristy-78/Leetcode/tree/master/1920-build-array-from-permutation) |
