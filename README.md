@@ -520,6 +520,7 @@ Leetcode solutions
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sristy-78/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sristy-78/Leetcode/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sristy-78/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Sristy-78/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sristy-78/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2308-divide-array-into-equal-pairs](https://github.com/Sristy-78/Leetcode/tree/master/2308-divide-array-into-equal-pairs) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Sristy-78/Leetcode/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -574,6 +575,7 @@ Leetcode solutions
 | [1768-merge-strings-alternately](https://github.com/Sristy-78/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/Sristy-78/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Sristy-72/Leetcode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/Sristy-78/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sristy-78/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/Sristy-78/Leetcode/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2232-adding-spaces-to-a-string](https://github.com/Sristy-78/Leetcode/tree/master/2232-adding-spaces-to-a-string) |
