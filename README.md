@@ -246,6 +246,7 @@ Leetcode solutions
 | [0389-find-the-difference](https://github.com/Sristy-72/Leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sristy-78/Leetcode/tree/master/0414-third-maximum-number) |
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Sristy-78/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sristy-72/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
@@ -399,6 +400,7 @@ Leetcode solutions
 | [0896-monotonic-array](https://github.com/Sristy-78/Leetcode/tree/master/0896-monotonic-array) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sristy-78/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1036-rotting-oranges](https://github.com/Sristy-78/Leetcode/tree/master/1036-rotting-oranges) |
 | [1044-find-common-characters](https://github.com/Sristy-78/Leetcode/tree/master/1044-find-common-characters) |
 | [1196-filling-bookcase-shelves](https://github.com/Sristy-78/Leetcode/tree/master/1196-filling-bookcase-shelves) |
@@ -636,6 +638,7 @@ Leetcode solutions
 | [0567-permutation-in-string](https://github.com/Sristy-78/Leetcode/tree/master/0567-permutation-in-string) |
 | [0647-palindromic-substrings](https://github.com/Sristy-78/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0874-backspace-string-compare](https://github.com/Sristy-78/Leetcode/tree/master/0874-backspace-string-compare) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sristy-78/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Sristy-78/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/Sristy-78/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
