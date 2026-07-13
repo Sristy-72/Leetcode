@@ -232,6 +232,7 @@ Leetcode solutions
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Sristy-78/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Sristy-78/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Sristy-78/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -335,6 +336,7 @@ Leetcode solutions
 | [0041-first-missing-positive](https://github.com/Sristy-78/Leetcode/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/Sristy-78/Leetcode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Sristy-78/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Sristy-78/Leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Sristy-78/Leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sristy-78/Leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Sristy-78/Leetcode/tree/master/0054-spiral-matrix) |
@@ -500,6 +502,7 @@ Leetcode solutions
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sristy-78/Leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Sristy-78/Leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sristy-78/Leetcode/tree/master/0041-first-missing-positive) |
+| [0049-group-anagrams](https://github.com/Sristy-78/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
@@ -544,6 +547,7 @@ Leetcode solutions
 | [0020-valid-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sristy-78/Leetcode/tree/master/0022-generate-parentheses) |
 | [0038-count-and-say](https://github.com/Sristy-78/Leetcode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/Sristy-78/Leetcode/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/Sristy-78/Leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/Sristy-78/Leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Sristy-78/Leetcode/tree/master/0131-palindrome-partitioning) |
