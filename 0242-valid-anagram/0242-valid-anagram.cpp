@@ -4,17 +4,14 @@ public:
         int m= s.size();
         int n= t.size();
         if(m!=n) return false;
-        map<char, int>mp1;
-        map<char, int>mp2;
-        for(auto it:s){
-            mp1[it]++;
-        }
-        for(auto it:t){
-            mp2[it]++;
-        }
-        for(auto it :mp1){
-            if(mp1[it.first]!=mp2[it.first]) return false;
-        }
-        return true;
+       vector<int>arr(26);
+       for(int i=0;i<n;i++){
+        arr[s[i]-'a']++;
+        arr[t[i]-'a']--;
+       }
+       for(int i=0;i<26;i++){
+       if(arr[i]!=0) return false;
+       }
+       return true;
     }
 };
