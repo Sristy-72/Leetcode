@@ -1,16 +1,20 @@
 class Solution {
 public:
     bool isAnagram(string s, string t) {
-        if(s.length()!=t.length()) return false;
-     vector<int>mp(26,0);
-
-     for(int i=0;i<s.length();i++){
-        mp[s[i]-'a']++;
-        mp[t[i]-'a']--;
-     }
-     for(int val:mp){
-        if(val!=0) return false;
-     }
-     return true;
+        int m= s.size();
+        int n= t.size();
+        if(m!=n) return false;
+        map<char, int>mp1;
+        map<char, int>mp2;
+        for(auto it:s){
+            mp1[it]++;
+        }
+        for(auto it:t){
+            mp2[it]++;
+        }
+        for(auto it :mp1){
+            if(mp1[it.first]!=mp2[it.first]) return false;
+        }
+        return true;
     }
 };
