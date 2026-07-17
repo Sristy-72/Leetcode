@@ -13,8 +13,8 @@ public:
        int right= n-1;
         while(left<right ){
             if(first+ nums[left]+ nums[right]==0){
-                 vector<int>v={nums[left], nums[right], first};
-                      sort(v.begin(), v.end());
+                 vector<int>v={first ,nums[left], nums[right]};
+                      
                       if(st.find(v)==st.end()){
                         st.insert(v);
                         ans.push_back(v);
