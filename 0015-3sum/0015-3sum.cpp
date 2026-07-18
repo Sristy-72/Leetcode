@@ -13,10 +13,9 @@ public:
             while(left<right){
                 if(first+ nums[left]+ nums[right]==0){
                     vector<int>v={first,nums[left], nums[right]};
-                    if(st.find(v)==st.end()){ // yaha pe set ko isliye check kar rahe kyunki phir ans me  duplicates store ho jayenge
-                        st.insert(v);
-                     ans.push_back(v);
-                    }
+                   if (st.insert(v).second) {
+                       ans.push_back(v);
+                        }
                     
                     left++;
                     right--;
