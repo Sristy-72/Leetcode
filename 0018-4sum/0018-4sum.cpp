@@ -15,10 +15,10 @@ public:
                     if(sum==target){
                         vector<int>v={nums[i],nums[j],nums[left],nums[right]};
                         ans.push_back(v);
-                        left++;
+                         while(left<right && nums[left]==nums[left+1] ) left++;
+                         while(left<right && nums[right]== nums[right-1]) right--;
+                          left++;
                          right--;
-                         while(left<right && nums[left]==nums[left-1] ) left++;
-                         while(left<right && nums[right]== nums[right+1]) right--;
                          
                     }
                      else if(sum>target){
