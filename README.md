@@ -360,6 +360,7 @@ Leetcode solutions
 | [0119-pascals-triangle-ii](https://github.com/Sristy-78/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/Sristy-78/Leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sristy-78/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/Sristy-78/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/Sristy-78/Leetcode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Sristy-78/Leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Sristy-72/Leetcode/tree/master/0162-find-peak-element) |
@@ -510,6 +511,7 @@ Leetcode solutions
 | [0041-first-missing-positive](https://github.com/Sristy-78/Leetcode/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/Sristy-78/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Sristy-78/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0128-longest-consecutive-sequence](https://github.com/Sristy-78/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sristy-78/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sristy-78/Leetcode/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sristy-78/Leetcode/tree/master/0229-majority-element-ii) |
@@ -1057,6 +1059,7 @@ Leetcode solutions
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/Sristy-78/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/Sristy-78/Leetcode/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Sristy-78/Leetcode/tree/master/0547-number-of-provinces) |
 ## Graph Theory
