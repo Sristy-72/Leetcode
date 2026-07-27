@@ -253,6 +253,7 @@ Leetcode solutions
 | [0977-squares-of-a-sorted-array](https://github.com/Sristy-78/Leetcode/tree/master/0977-squares-of-a-sorted-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sristy-78/Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1331-rank-transform-of-an-array](https://github.com/Sristy-78/Leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sristy-78/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/Sristy-72/Leetcode/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Sristy-78/Leetcode/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Sristy-78/Leetcode/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -272,6 +273,7 @@ Leetcode solutions
 | [0215-kth-largest-element-in-an-array](https://github.com/Sristy-78/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sristy-78/Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1325-path-with-maximum-probability](https://github.com/Sristy-78/Leetcode/tree/master/1325-path-with-maximum-probability) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sristy-78/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sristy-78/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Sristy-78/Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2379-maximum-total-importance-of-roads](https://github.com/Sristy-72/Leetcode/tree/master/2379-maximum-total-importance-of-roads) |
@@ -421,6 +423,7 @@ Leetcode solutions
 | [1389-create-target-array-in-the-given-order](https://github.com/Sristy-78/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Sristy-78/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sristy-78/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sristy-78/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/Sristy-78/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/Sristy-78/Leetcode/tree/master/1497-design-a-stack-with-increment-operation) |
 | [1511-count-number-of-teams](https://github.com/Sristy-78/Leetcode/tree/master/1511-count-number-of-teams) |
