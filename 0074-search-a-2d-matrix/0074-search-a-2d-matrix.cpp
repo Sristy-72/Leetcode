@@ -11,10 +11,10 @@ public:
     int endCol= n-1;
    
      
-    while(stRow<=endRow){
+    while(stRow<=endRow){ // to find in the row 
          int midRow = stRow+ (endRow-stRow)/2;
-        if(matrix[midRow][0]==target) return true;
-        else if(matrix[midRow][0]<=target && matrix[midRow][endCol]>=target) {
+       
+         if(matrix[midRow][0]<=target && matrix[midRow][endCol]>=target) { // this is to find in the particular row/ targeted row in which target can exist
             int midCol= (stCol+endCol)/2;
             if(matrix[midRow][midCol]==target) return true;
             else if(matrix[midRow][midCol]>target)endCol= midCol-1;
