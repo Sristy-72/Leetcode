@@ -21,7 +21,7 @@ public:
         int col= n-1;
         
         while(row<k && col>=0){
-             int mid= m[0][col];
+             int mid= m[row][col];
             if(m[row][col]==target) return true;
             else if(m[row][col]<target) row++;
             else col--;
