@@ -411,6 +411,7 @@ Leetcode solutions
 | [0852-peak-index-in-a-mountain-array](https://github.com/Sristy-78/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0859-design-circular-deque](https://github.com/Sristy-78/Leetcode/tree/master/0859-design-circular-deque) |
 | [0875-koko-eating-bananas](https://github.com/Sristy-78/Leetcode/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/Sristy-78/Leetcode/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/Sristy-78/Leetcode/tree/master/0896-monotonic-array) |
 | [0906-walking-robot-simulation](https://github.com/Sristy-78/Leetcode/tree/master/0906-walking-robot-simulation) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sristy-78/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -738,6 +739,7 @@ Leetcode solutions
 | [0539-minimum-time-difference](https://github.com/Sristy-78/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/Sristy-78/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0670-maximum-swap](https://github.com/Sristy-78/Leetcode/tree/master/0670-maximum-swap) |
+| [0877-stone-game](https://github.com/Sristy-78/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/1013-fibonacci-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sristy-78/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1137-n-th-tribonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -829,6 +831,7 @@ Leetcode solutions
 | [0647-palindromic-substrings](https://github.com/Sristy-78/Leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sristy-78/Leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/Sristy-78/Leetcode/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sristy-78/Leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/Sristy-78/Leetcode/tree/master/1143-longest-common-subsequence) |
@@ -1085,4 +1088,16 @@ Leetcode solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sristy-78/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1985-find-the-kth-largest-integer-in-the-array](https://github.com/Sristy-78/Leetcode/tree/master/1985-find-the-kth-largest-integer-in-the-array) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sristy-78/Leetcode/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sristy-78/Leetcode/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Sristy-78/Leetcode/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
